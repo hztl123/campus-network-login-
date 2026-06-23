@@ -1,0 +1,13 @@
+{
+    "_comment": "校园网自动登录配置 — 复制这份文件为 config.json 并填入你自己的信息",
+    "username": "你的学号",
+    "password": "你的密码（明文即可，脚本启动时会自动 base64 编码保存）",
+    "domain": "@cmcc",
+    "ac_id": "8",
+    "enc_ver": "srun_bx1",
+    "n": "200",
+    "type": "1",
+    "portal_host": "10.110.74.99",
+    "os": "Windows 10",
+    "name": "Windows"
+}
